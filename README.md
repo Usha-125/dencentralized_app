@@ -52,10 +52,10 @@ Directory Structure
  ┣ 📜 README.md (Project Documentation)
  ┣ 📜 server.js (Lite server to host frontend)
  ┗ 📜 truffle-config.js (Truffle Project Config)
-Running the project
+**Running the project
 Smart Contracts
 Run npm i to install dependencies.
-Run ganache-cli to start a local chain.
+Run ganache-cli to start a local chain.**
 In the projects root directory, run truffle console to interact with the porject.
 To compile contracts run truffle compile
 To deploy run truffle migrate
